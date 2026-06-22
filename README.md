@@ -1,6 +1,6 @@
 # Imitative Membership Inference Attack
 
-This repository contains an implementation of the Imitative Membership Inference Attack. This attack aims to imitate the behavior of a machine learning model and determine if specific pieces of data were used to train that model. The attack is written in an IPython notebook, meaning users can run each part of the attack separately, go at their own pace, and modify chunks of code individually. 
+This repository contains an implementation of the [Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796). This attack aims to imitate the behavior of a machine learning model and determine if specific pieces of data were used to train that model. The attack is written in an IPython notebook, meaning users can run each part of the attack separately, go at their own pace, and modify chunks of code individually. 
 
 # Attack Structure
 
